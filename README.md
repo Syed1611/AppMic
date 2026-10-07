@@ -8,7 +8,7 @@ AppMic is a Windows x64 VST2 plugin for **Equalizer APO 1.4.2 x64** that capture
 
 AppMic was developed and tested around this exact setup:
 
-- **Windows x64**
+- **Windows 11 x64**
 - **Equalizer APO 1.4.2 x64**
 - **Equalizer APO VST2 plugin filter**
 - **AppMic v0.2.4 x64**
