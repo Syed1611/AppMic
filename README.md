@@ -1,6 +1,6 @@
 # AppMic
 
-AppMic is a Windows x64 VST2 plugin for **Equalizer APO 1.4.2 x64** that captures the playback of a selected application and mixes it into the microphone path while the application continues playing normally through speakers/headphones.
+AppMic is a Windows x64 VST2 plugin for **Equalizer APO 1.4.2 x64** that captures the playback of a selected application and mixes it into the microphone path while the application continues playing normally through speakers/headphones. I apologize that my naming sense is bad but it is what it is.
 
 > **Current recommended version: AppMic v0.2.4 x64**
 
