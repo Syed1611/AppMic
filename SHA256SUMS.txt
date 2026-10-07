@@ -1,0 +1,20 @@
+# AppMic preserved artifact SHA-256 checksums
+# Historical package archives contain the source/build materials used at those stages.
+
+5ca7353e855d617f01c89079443f63222b71cd93f4b25309b949d5db3c72bbcd  AppMic-v0.1-package.zip
+4ddee440df11a0e7988fc0ebfa87321df82ddb5c6341bd20a04b8bec0398041f  AppMic-v0.1.1-package.zip
+1f2f68e97d01809bad87b2ac6208b405d3c314404c2c026725b7232cdfc9d796  AppMic-v0.1.2-package.zip
+43a594a611d43c08b4921349e86eafa7200d6bd421c261ecab36ff86889c4c11  AppMic-v0.1.2-hotfix-package.zip
+a96537abc0b76b2bb972c43c160315174d744caf7ff582fcd54efe13394da379  AppMic-v0.1.4-package.zip
+66e1754c1d49f25959274616f2a5cec0147b577caecd6d138773184a12ad4ab7  AppMic-v0.1.4-hotfix-package.zip
+ae6badc61eff9bbb0ccc617f9a852e69877a617a75f40dca5b149a14176836e8  AppMic-v0.1.4-hotfix-b-package.zip
+80003668eea6249e4b5c836ef5e945972098656cfd8e97b4c0ecafaf37596a36  AppMic-v0.1.4-hotfix-c-package.zip
+2369dcc5726772086b0be3f36da36a2230e045252ef771527d742b65291a2425  AppMic-v0.1.4-hotfix-d-package.zip
+0d3ff45ddb830e411928e7893c8a417a9b7a0db9b582db6dee439d4f0ffffc24  AppMic-v0.1.4-hotfix-e-package.zip
+15df8ffe6d28f23c8e8ef6b53b15aeecaa056c29c679f70a5bdea209d3fc56b6  AppMic-v0.1.4-hotfix-f-package.zip
+8c451deee5403839908cff9ae48b5b037a103a4ae327ab8177d73a9797cd12d2  AppMic-v0.2-package.zip
+9efb62b214bebdb37f355947b63cec4b43e25a271105b07ceed0b418c12e76e5  AppMic-v0.2.0-package.zip
+9764bbdc16c8c7218afa7add81fe1228b790659a802722e6be079a4844abdd69  AppMic-v0.2.1-package.zip
+1fab32f8377b9877f57d140ac111284b7b80b9a00e2593dc74becd481992b626  AppMic-v0.2.2-package.zip
+c5f4285b6d9be11ed6ee7bd6fdb8ea4d6bad6592932173b302def583564140a8  AppMic-v0.2.3-package.zip
+1a198c855314f6aa64d5a1eeb3cfee8d3bae70d66de186050ed17b195cd63515  AppMic-v0.2.4-x64.dll
