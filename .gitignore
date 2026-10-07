@@ -1,0 +1,21 @@
+# Windows / build outputs
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Local build directories
+build/
+out/
+
+# Editor / OS files
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Keep release DLLs/packages out of normal source commits.
+# Official binaries belong in GitHub Releases.
+*.dll
+*.zip
